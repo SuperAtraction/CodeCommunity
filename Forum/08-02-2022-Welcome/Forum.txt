@@ -1,0 +1,3 @@
+<h1>Hello,</h1>
+et bienvenue sur ce premier Forum de CodeCommunity ! 
+Pour créer un Forum,
