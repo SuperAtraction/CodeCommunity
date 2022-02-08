@@ -13,5 +13,5 @@ Etape faites pour arriver a ces résultats :<br><ol>
 <li>(Optitionnel)Sauter une ligner et ajouter d'autres fichier en idiquant leur nom</li>
 <li>Ensuite, à gauche, cliquer sur l'engrenage a droite de 'Labels', rechercher 'Tuto' dans la barre de recherche et sélectionner 'Tuto'</li>
 <li>Puis, cliquer sur 'Select category' et cliquer sur 'General'</li>
-<li>Pour Finir, cliquer sur 'Start discution</li>
+<li>Pour Finir, cliquer sur 'Start discution'</li>
 </ol>
