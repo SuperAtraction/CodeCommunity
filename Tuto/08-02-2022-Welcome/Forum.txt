@@ -1,4 +1,4 @@
-<h1Hello,<br>
+Hello,<br>
 et bienvenue sur ce premier Tuto de CodeCommunity ! <br>
 Pour créer un Tuto, Allez <a href="https://github.com/SuperAtraction/CodeCommunity/discussions/new">sur ce lien</a> pour ajouter une discution, et faite tout comme cela :<br>
 En code :<br>
@@ -14,3 +14,4 @@ Etape faites pour arriver a ces résultats :<br><ol>
 <li>Ensuite, à gauche, cliquer sur l'engrenage a droite de 'Labels', rechercher 'Tuto' dans la barre de recherche et sélectionner 'Tuto'</li>
 <li>Puis, cliquer sur 'Select category' et cliquer sur 'General'</li>
 <li>Pour Finir, cliquer sur 'Start discution</li>
+</ol>
