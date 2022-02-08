@@ -67,7 +67,12 @@
           </div>
           </p>
         <script type="text/javascript">
-          $("#RecentS").load("recent.txt");
+          $("document").ready(load());
+          
+          function load(){
+            $("#RecentS").load("recent.txt");
+          }
+          
         </script>
         </article>
       </div>
