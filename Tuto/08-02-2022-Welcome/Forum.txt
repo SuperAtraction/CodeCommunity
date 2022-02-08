@@ -1,5 +1,9 @@
 Hello,<br>
 et bienvenue sur ce premier Tuto de CodeCommunity ! <br>
+Il inclus :<br>
+-Comment créer un Tuto par soi-même ? <br>
+-Comment créer une Question pour une création de Tuto faite par un dévloppeur (Quiconque) ?<br>
+<h1>Comment créer un Tuto par soi-même ?</h1>
 Pour créer un Tuto, Allez <a href="https://github.com/SuperAtraction/CodeCommunity/discussions/new">sur ce lien</a> pour ajouter une discution, et faite tout comme cela :<br>
 En code :<br>
 <img src="i1.png"/><br>
@@ -15,3 +19,14 @@ Etape faites pour arriver a ces résultats :<br><ol>
 <li>Puis, cliquer sur 'Select category' et cliquer sur 'General'</li>
 <li>Pour Finir, cliquer sur 'Start discution'</li>
 </ol>
+<h1>Comment créer une Question pour une création de Tuto faite par un dévloppeur (Quiconque) ?</h1>
+Allez <a href="https://github.com/SuperAtraction/CodeCommunity/discussions/new">sur ce lien</a> pour ajouter une discution, et faite tout comme cela :<br><ol>
+<li>Mettez en titre 'Question de Tuto'</li>
+<li>A gauche, cliquer sur l'engrenage a droite de 'Labels', rechercher 'Question' dans la barre de recherche et sélectionner 'Question de Tuto'</li>
+<li>Puis, cliquer sur 'Select category' et cliquer sur 'General'</li>
+<li>Ecriver 'Je souhaiterais que quelqu'un réponde a ma question : ' + La Question + (Optitionnel) un example</li>
+<p>Normalement,vous devrez avoir a peu près ce résultat :<br>
+<img src="i3.png"/><br>
+</p>
+<li>Si tout est bon, cliquez sur 'Start discution'</li>
+<li>Attendez une réponse de moi-même(Ou de quiconque)(Une question, ok...) et allez voir <a href="https://superatraction.github.io/CodeCommunity/">ici</a>, dans la liste des sujets récents</li></ol>
