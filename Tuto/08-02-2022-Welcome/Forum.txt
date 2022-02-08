@@ -1,3 +1,16 @@
-<h1>Hello,</h1>
-et bienvenue sur ce premier Forum de CodeCommunity ! 
-Pour créer un Forum,
+<h1Hello,<br>
+et bienvenue sur ce premier Tuto de CodeCommunity ! <br>
+Pour créer un Tuto, Allez <a href="https://github.com/SuperAtraction/CodeCommunity/discussions/new">sur ce lien</a> pour ajouter une discution, et faite tout comme cela :<br>
+En code :<br>
+<img src="i1.png"/><br>
+Ou en texte :<br>
+<img src="i2.png"/><br>
+Etape faites pour arriver a ces résultats :<br><ol>
+<li>Mettre en titre "Nouveau Tuto"</li>
+<li>Ensuite Ecrire "Je voudrais un nouveau Tuto avec le code suivant :"</li>
+<li>Sauter une ligne</li>
+<li>Ecrire '_' + le code/le texte + '_'</li>
+<li>(Optitionnel)Sauter une ligner et ajouter d'autres fichier en idiquant leur nom</li>
+<li>Ensuite, à gauche, cliquer sur l'engrenage a droite de 'Labels', rechercher 'Tuto' dans la barre de recherche et sélectionner 'Tuto'</li>
+<li>Puis, cliquer sur 'Select category' et cliquer sur 'General'</li>
+<li>Pour Finir, cliquer sur 'Start discution</li>
