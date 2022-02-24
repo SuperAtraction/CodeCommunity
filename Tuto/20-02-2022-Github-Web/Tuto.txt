@@ -4,4 +4,9 @@ Hello,<br>
 Aujourd'hui, je vous ai préparé un Tutoriel pour Créer un Site Gratuitement avec Github !<br>
 Pour continuer,<br>
 Pour ce tuto, <a href="https://github.com/signup">Enregistrez-vous</a> Ou <a href="https://github.com/login">Connectez-vous</a> à github.<br>
+<ul>
+<li>Créer une repository nommée "[NomUser].github.io" (Remplacer [NomUser] par votre nom d'utilisateur Github</li>
+<li>Activer github page dans les paramètres de votre repository</li>
+<li>Créer un fichier <code>Index.md</code> avec comme contenu : <code># Bienvenue sur mon site</code></li>
+</ul>
 </p>
